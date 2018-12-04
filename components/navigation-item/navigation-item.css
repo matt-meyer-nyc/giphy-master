@@ -1,0 +1,18 @@
+.container {
+  margin-right: 30px;
+  padding: 10px;
+}
+
+.selected {
+  background-color: #303158;
+}
+
+.link {
+  color: #9ab87a;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.link:hover {
+  color: #708875;
+}
